@@ -1,6 +1,6 @@
 # proyectoUDDMongoDB
 ```bash
-proyecto-5-react/
+proyectoBUDD/
 ├── node_modules/
 ├── public/
 ├── src/
