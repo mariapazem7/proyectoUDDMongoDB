@@ -6,7 +6,7 @@ La aplicación incluye un modelo de usuario y un modelo de producto, que en esta
 permite realizar operaciones CRUD, utilizando diferentes endpoints.
 
 ## Instalación
-- Para instalar este proyecto"
+"Para instalar este proyecto"
 - Utilizar Node.js y Express para el desarrollo del servidor.
 - Utilizar MongoDB a través de mongoose para el desarrollo de los modelos.
 - Contar con MongoDB Compass para observar los cambios de los documentos.
